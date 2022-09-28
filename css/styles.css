@@ -51,7 +51,7 @@ body{
 .header {
     padding-top: 24px;
     padding-bottom: 25px;
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .header-logo{
@@ -241,7 +241,7 @@ margin-bottom: 50px;
 
 .team-text-content {
     padding-top: 30px;
-   padding-bottom: 10px;
+   padding-bottom: 30px;
 }
 
 .team-titel-name {
@@ -302,6 +302,10 @@ width: 145px;
     width: 231px;
 }
 
+.foter-list {
+    margin-top: 9px;
+}
+
 .footer-link{
 font-size: 14px;
 line-height: 1.71;
@@ -312,6 +316,7 @@ width: 231px;
 
 .footer-item {
     width: 231px;
+    margin-bottom: 9px;
 }
 
 .footer-mail {
@@ -335,7 +340,6 @@ width: 231px;
 .portfolio {
     padding-top: 94px;
     padding-bottom: 94px;
-    border: 1px solid #ECECEC;
 }
 
 .portfolio-btn-content {
